@@ -1,0 +1,4 @@
+[submodule "epics-training-iointr"]
+	path = epics-training-iointr
+	url = https://gitlab.com/waynelewis/epics-training-iointr
+	ignore = all
